@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.91.0",
+    "promise": "^8.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^25.6.0"
+  }
+}
