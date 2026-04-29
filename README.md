@@ -1,6 +1,8 @@
-# Claude Managed Agents 開発環境ベース
+# Claude Managed Agents 開発環境ベース（TypeScript SDK）
 
 [Claude Managed Agents](https://platform.claude.com/docs/ja/managed-agents/overview) を使って自律型エージェントを開発するためのローカル環境のベースです。
+
+SDKはTypeScriptです。
 
 ### コアコンセプト
 
