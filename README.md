@@ -1,3 +1,10 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+![Node.js](https://img.shields.io/badge/Node.js-24.x-339933?logo=node.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue)
+![Anthropic SDK](https://img.shields.io/badge/Anthropic%20SDK-v0.91+-purple)
+![Dev Container](https://img.shields.io/badge/devcontainer-ready-green)
+![AI Agents](https://img.shields.io/badge/AI-Agents-black)
+
 # Claude Managed Agents 開発環境ベース（TypeScript SDK）
 
 [Claude Managed Agents](https://platform.claude.com/docs/ja/managed-agents/overview) を使って自律型エージェントを開発するためのローカル環境のベースです。
